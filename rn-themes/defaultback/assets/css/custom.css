@@ -1,0 +1,25 @@
+.site-menubar {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .site-menubar {
+        display: block;
+        background: #fff;
+    }
+}
+
+body.site-navbar-small {
+    padding-top: 5rem !important;
+}
+
+.logo-custom {
+    color : #fff;
+}
+
+.logo-max-size {
+    max-width: 50px;
+}
+
+
+
